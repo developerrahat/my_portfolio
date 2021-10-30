@@ -1,0 +1,4 @@
+sidebar-color:#edf2f4;
+body-background:#edf2f4;
+h1-h6, a color:#000814;
+p,span, others:#11151c;
